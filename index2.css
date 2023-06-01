@@ -1,0 +1,17 @@
+body{
+    background-color:black ;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    
+}
+h1{
+    text-shadow: 0 0 10px rgb(186, 238, 89);
+    margin: auto;
+    font-size: 100px;
+    font-weight: bolder;
+
+}
+a{
+    color: white;
+}

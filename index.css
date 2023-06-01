@@ -1,0 +1,123 @@
+
+body {
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+    background-color: rgb(43, 42, 42);
+    background:linear-gradient(black,purple);
+    
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+}
+
+h1,
+h2,
+h4,h3 {
+
+    text-shadow: 0 0 4px;
+
+}
+
+#bday-age {
+    background-color: darkblue;
+    padding: 5px 10px;
+
+
+}
+
+#bday-date {
+    background-color: darkblue;
+    padding: 5px 10px;
+
+
+}
+
+#image {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    background-image: url("balram.jpg");
+    background-size: cover;
+    margin: auto;
+    border: 6px solid white;
+    box-shadow: 0 0 20px rgb(101, 101, 218) ;
+
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+
+}
+.gift-section{
+    margin-top: 50px;
+}
+.gift-section2{
+    margin-top: 50px;
+}
+.gift-box{
+    background-image: url("download.jpeg");
+    /*background:linear-gradient(blue,pink);*/
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    border:3px solid white;
+    box-shadow: 0 0 6px rgb(219, 247, 120);
+}
+.gift-box:hover{
+    background-image: url("happy.gif");
+}
+.gift-box2{
+    background-image: url("download.jpeg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    border:3px solid white;
+    box-shadow: 0 0 6px rgb(219, 247, 120);
+}
+.gift-box2:hover{
+    background-image: url("GOC.gif");
+}
+.gift-box3{
+    background-image: url("download.jpeg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    border:3px solid white;
+    box-shadow: 0 0 6px rgb(219, 247, 120);
+}
+.gift-box3:hover{
+    background-image: url("https://media.giphy.com/media/ZuhmYnikJOPPq/giphy.gif");
+}
+.gift-box4{
+    background-image: url("download.jpeg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    border:3px solid white;
+    box-shadow: 0 0 6px rgb(219, 247, 120);
+}
+.gift-box4:hover{
+    background-image: url("https://media.giphy.com/media/8J9hygDXpHZ1WW5OkF/giphy-downsized-large.gif");
+    background-size: cover;
+}
+.gift-box5{
+    background-image: url("download.jpeg");
+    width: 400px;
+    height: 400px;
+    background-size: cover;
+    border:3px solid white;
+    box-shadow: 0 0 6px rgb(219, 247, 120);
+   
+}
+.gift-box5:hover{
+    background-image: url("https://media.giphy.com/media/BPJmthQ3YRwD6QqcVD/giphy.gif");
+    background-size: cover;
+}
+a{
+    color: white;
+}
